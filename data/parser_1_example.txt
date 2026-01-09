@@ -1,0 +1,24 @@
+PARSER: 2
+GAME: Donkey Kong Country 2
+AUTHOR: lx5
+---
+QUESTION: EASY
+Question here!
+ANSWERS:
+Correct Answer
+Incorrect Answer 1
+Incorrect Answer 2
+---
+QUESTION: MEDIUM
+Question here!
+ANSWERS:
+Correct Answer
+Incorrect Answer 1
+Incorrect Answer 2
+---
+QUESTION: HARD
+Question here!
+ANSWERS:
+Correct Answer
+Incorrect Answer 1
+Incorrect Answer 2
