@@ -128,3 +128,12 @@ Sell his wares
 Stop the king's evil
 Kiss the Town Maiden
 ---
+QUESTION: MEDIUM
+In Ender Lilies, which of
+these is NOT a requirement
+to get Ending C?
+ANSWERS:
+Every Spirit
+Stone Tablet Fragments
+Equipping Aegis Curio
+---
