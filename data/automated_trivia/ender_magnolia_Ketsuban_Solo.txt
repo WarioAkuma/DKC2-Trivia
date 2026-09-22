@@ -67,7 +67,7 @@ ANSWERS:
 Perfume vial
 Nicotine vape
 Medical inhaler
-Synthetic Cigar
+Synthetic cigar
 ---
 QUESTION: MEDIUM
 In Ender Magnolia, which
