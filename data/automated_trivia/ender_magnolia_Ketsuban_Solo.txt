@@ -118,13 +118,12 @@ Eye of the Ancients
 Eye of the Beast
 Ward Propagator
 ---
-QUESTION: HARD
-In Ender Magnolia, what is
-the nature of No. 78, according
-to Declan's Records?
+QUESTION: MEDIUM
+How many endings are there for
+Ender Magnolia?
 ANSWERS:
-Fusion with a beast
-Combat organism
-Priestess specimen
-Mechanical owl
+2
+1
+3
+4
 ---
