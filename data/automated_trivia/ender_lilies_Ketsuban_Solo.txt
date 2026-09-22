@@ -1,0 +1,130 @@
+PARSER: 2
+GAME: Ender Lilies: Quietus of the Knights
+AUTHOR: Ketsuban Solo
+---
+QUESTION: EASY
+In Ender Lilies, what is the
+name of the player character?
+ANSWERS:
+Lily
+Lilly
+Lilia
+Lilac
+---
+QUESTION: EASY
+In Ender Lilies, at the start,
+how many times can Lily heal
+between respites?
+ANSWERS:
+Three
+Four
+Two
+One
+---
+QUESTION: EASY
+In Ender Lilies, which of
+these will reduce damage taken
+from Verboten Domain's fumes?
+ANSWERS:
+Heretic's Mask
+Luminant Aegis Curio
+Holy Spring Water
+Ruined Witch's Book
+---
+QUESTION: EASY
+In Ender Lilies, which of
+these will permanently raise
+the potency of Lily's healing?
+ANSWERS:
+Priestess' Wish
+Amulet Fragment
+Chain of Sorcery
+Stagnant Blight
+---
+QUESTION: EASY
+In Ender Lilies, which of
+these is NOT an item that
+can level up a Soul?
+ANSWERS:
+Infectious Blight
+Stagnant Blight
+Furious Blight
+Ancient Soul
+---
+QUESTION: EASY
+In Ender Lilies, what is the
+name of the music group that
+performed the music?
+ANSWERS:
+Mili
+AWAAWA
+Kero Kero Bonito
+Reol
+---
+QUESTION: MEDIUM
+In Ender Lilies, is the
+Umbral Knight male or female?
+ANSWERS:
+It's ambiguous
+Male
+Female
+---
+QUESTION: MEDIUM
+In Ender Lilies, what is the name
+of Faden's lover and mother of
+his daughter?
+ANSWERS:
+Miriel
+Eleine
+Luiseach
+Silva
+---
+QUESTION: MEDIUM
+In Ender Lilies, under the
+effects of the blight, what
+does the Town Maiden do?
+ANSWERS:
+Nothing
+Attacks you
+Sings a song to you
+Asks you to cure her
+---
+QUESTION: MEDIUM
+In Ender Lilies, what is
+the name of the song that
+plays when you fight Julius?
+ANSWERS:
+Accolade
+Bloom
+Grudge
+Abandonment
+---
+QUESTION: HARD
+In Ender Lilies, which of
+these Spirits will NOT move
+the player vertically?
+ANSWERS:
+Incompetent Sinner
+Guardian Silva
+Verboten Champion
+---
+QUESTION: HARD
+In Ender Lilies, which of
+these Spirits does the Umbral
+Knight condemn?
+ANSWERS:
+Julius
+Gerrod
+Hoenir
+Eleine
+---
+QUESTION: HARD
+In Ender Lilies, what is
+the Western Merchant's
+dying wish?
+ANSWERS:
+See his wife and child
+Sell his wares
+Stop the king's evil
+Kiss the Town Maiden
+---

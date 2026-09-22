@@ -1,0 +1,130 @@
+PARSER: 2
+GAME: Ender Magnolia: Bloom in the Mist
+AUTHOR: Ketsuban Solo
+---
+QUESTION: EASY
+In Ender Magnolia, what is the
+name of the player character?
+ANSWERS:
+Lilac
+Lilly
+Lilia
+Lily
+---
+QUESTION: EASY
+In Ender Magnolia, how many
+unique skills can every
+combat Homonculus learn?
+ANSWERS:
+Three
+One
+Two
+Four
+---
+QUESTION: EASY
+Who composed the music for
+Ender Magnolia?
+ANSWERS:
+Yamato Kasai
+Christopher Larkin
+Grant Kirkhope
+Michiru Yamane
+---
+QUESTION: MEDIUM
+In Ender Magnolia, which of
+these is NOT a skill that
+Garm learns?
+ANSWERS:
+Garm's Drill
+Garm's Ascent
+Garm's Iron Stake
+---
+QUESTION: MEDIUM
+In Ender Magnolia, which of
+No. 7's abilities explicitly
+mentions Declan by name?
+ANSWERS:
+Hail Dance
+Thunder Flower
+Hidden Mastery
+Lunar Manifestation
+---
+QUESTION: MEDIUM
+In Ender Magnolia, which of
+these boss fights is
+completely optional?
+ANSWERS:
+Luiseach
+Shackled Beast
+No. 7
+Lars
+---
+QUESTION: MEDIUM
+In Ender Magnolia, what
+is Shackled Beast
+constantly smoking on?
+ANSWERS:
+Perfume vial
+Nicotine vape
+Medical inhaler
+Synthetic Cigar
+---
+QUESTION: MEDIUM
+In Ender Magnolia, which
+character is directly related
+to Gilroy?
+ANSWERS:
+Nola
+Lilac
+Motley
+Levy
+---
+QUESTION: MEDIUM
+In Ender Magnolia, how many
+times do you fight Gilroy?
+ANSWERS:
+3
+4
+2
+1
+---
+QUESTION: HARD
+In Ender Magnolia, what
+is the developer codename for
+Declan's Estate?
+ANSWERS:
+Paradise
+Roots
+Kowloon
+Labo
+---
+QUESTION: HARD
+In Ender Magnolia, what is
+the nature of No. 78, according
+to Declan's Records?
+ANSWERS:
+Fusion with a beast
+Combat organism
+Priestess specimen
+Mechanical owl
+---
+QUESTION: HARD
+In Ender Magnolia, what Relic
+is the Traveling Priestess
+hiding?
+ANSWERS:
+Aegis Curio
+Eye of the Ancients
+Eye of the Beast
+Ward Propagator
+---
+QUESTION: HARD
+In Ender Magnolia, what is
+the nature of No. 78, according
+to Declan's Records?
+ANSWERS:
+Fusion with a beast
+Combat organism
+Priestess specimen
+Mechanical owl
+---
